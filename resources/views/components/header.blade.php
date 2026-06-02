@@ -1,7 +1,7 @@
 <header class="sticky top-0 z-40 underline-offset-4 lg:static bg-white lg:bg-transparent">
     <nav class="flex w-full items-center justify-between px-6 py-2.25">
         <a href="/" class="z-50">
-            <img src="/icon.ico" class="w-8" alt="Orsik">
+            <img src="/iconban4.ico" class="w-8" alt="Orsik">
         </a>
 
         <div class="hidden lg:flex xl:flex-1 items-center space-x-6 ml-6 mr-6 xl:mr-0 text-lg">
@@ -16,7 +16,7 @@
 
         <div class="hidden lg:flex xl:flex-1 items-center space-x-2 justify-end ml-6 xl:ml-0">
             <a class="flex cursor-pointer items-center rounded-full bg-black/5 hover:bg-black/10 text-lg px-4 py-1.5 text-black whitespace-nowrap"
-                href="{{ route('sign-in') }}">Sign in</a>
+                href="{{ route('signin') }}">Sign in</a>
             <a class="flex cursor-pointer items-center rounded-full bg-neutral-800 text-lg px-4 py-1.5 text-white hover:bg-black whitespace-nowrap focus:bg-black"
                 href="{{ route('register') }}">Register</a>
         </div>

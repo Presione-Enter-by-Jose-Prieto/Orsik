@@ -3,7 +3,7 @@
 @section('content')
     <main class="mx-auto flex w-full max-w-3xl flex-col px-6 pt-28 pb-20">
         <section class="flex flex-col items-center text-center mb-6 md:mb-8">
-            <img src="iconbanner.png" alt="Orsik" class="w-72 mb-6">
+            <img src="icoban3.png" alt="Orsik" class="w-72 mb-6">
             <p class="text-base text-neutral-500 mb-12">Potencia tu trabajo con <a class="underline underline-offset-2"
                     href="https://docs.ollama.com/integrations/openclaw">Orsik</a></p>
             <h1 class="text-3xl md:text-4xl font-medium font-rounded mb-6">Acompañando en cada paso <br> del aprendizaje</h1>
@@ -17,7 +17,7 @@
                 <p class="text-lg text-black mb-10">Orsik es una plataforma web creada en Laravel para el seguimiento y monitoreo de la etapa productiva de los aprendices del SENA. Con ella puedes gestionar aprendices, visitas, bitácoras y mucho más.</p>
             </div>
             <div class="w-1/2 flex items-center justify-center">
-                <img src="icoban.png" alt="Orsik" class="w-44 h-40">
+                <img src="iconban4.png" alt="Orsik" class="w-46 h-41">
             </div>
         </div>
         <div class="flex flex-row">
