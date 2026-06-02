@@ -10,9 +10,7 @@
     <title>@yield('title', 'Orsik - Plataforma para la gestión de etapas productivas.')</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body class="m-0 p-0 bg-white">
-    @include('components.header')
+<body class="min-h-screen m-0 p-0 bg-white flex items-center justify-center text-slate-900">
     @yield('content')
-    @include('components.footer')
 </body>
 </html>
