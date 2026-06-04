@@ -1,4 +1,4 @@
-<footer class="border-t border-gray-300 bg-white py-10">
+<footer class="border-t border-[#DCDCDC] bg-white py-10">
 	<div class="max-w-6xl mx-auto px-6 py-8 flex flex-col md:flex-row items-start justify-between gap-6">
 		<div class="md:w-1/3">
 			<a href="/" class="flex items-center gap-3">

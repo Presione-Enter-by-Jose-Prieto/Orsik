@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Documentación - Orsik')
+@section('title', 'Orsik - Documentación')
 
 @section('content')
     <div class="w-full max-w-6xl mx-auto px-6 py-12 mt-5 flex flex-col mb-20">
