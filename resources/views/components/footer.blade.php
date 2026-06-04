@@ -2,7 +2,7 @@
 	<div class="max-w-6xl mx-auto px-6 py-8 flex flex-col md:flex-row items-start justify-between gap-6">
 		<div class="md:w-1/3">
 			<a href="/" class="flex items-center gap-3">
-				<img src="/iconban4.ico" class="w-8" alt="Orsik">
+				<img src="/Documento.png" class="w-8" alt="Orsik">
 				<span class="text-xl font-medium">Orsik</span>
 			</a>
 			<p class="mt-3 text-sm text-neutral-600">Plataforma web para el seguimiento y monitoreo de la etapa productiva de aprendices SENA.</p>
