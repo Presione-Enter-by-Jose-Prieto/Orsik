@@ -3,7 +3,7 @@
 @section('content')
     <main class="mx-auto flex w-full max-w-3xl flex-col px-6 pt-28 pb-20">
         <section class="flex flex-col items-center text-center mb-6 md:mb-8">
-            <img src="icoban3.png" alt="Orsik" class="w-72 mb-6 select-none pointer-events-none" draggable="false">
+            <img src="img32.png" alt="Orsik" class="w-72 mb-6 select-none pointer-events-none" draggable="false" style="filter: drop-shadow(0 0 10px #2c830022);">
             <p class="text-base text-neutral-500 mb-12">Potencia tu trabajo con <a class="underline underline-offset-2"
                     href="https://docs.ollama.com/integrations/openclaw">Orsik</a></p>
             <h1 class="text-3xl md:text-4xl font-medium font-rounded mb-6">Acompañando en cada paso <br> del aprendizaje</h1>
@@ -22,7 +22,7 @@
         </div>
         <div class="flex flex-row">
             <div class="w-1/2 flex items-center justify-center">
-                <img src="bannerprofes.png" alt="Orsik" class="w-70 h-60 select-none pointer-events-none" draggable="false">
+                <img src="img36.png" alt="Orsik" class="w-70 h-56 select-none pointer-events-none" draggable="false">
             </div>
             <div class="w-1/2">
                 <h1 class="text-4xl font-medium font-rounded mb-8">¿Para quién está diseñada Orsik?</h1>
@@ -39,5 +39,4 @@
             </div>
         </div>
     </div>
-
 @endsection
